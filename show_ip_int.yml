@@ -1,5 +1,5 @@
 ---
-- name: Cau Hinh Switch
+- name: Cau Hinh Router
   hosts: all
   gather_facts: no
   tasks:
